@@ -2,7 +2,7 @@ Hi, I'm @JohnOnGH, I am currently interested in the intersection of emerging tec
 
 I am the co-founder of Sezoo (https://sezoo.digital) and a protagonist for better models of digital trust using open-standards and open-source based solutions such as W3C's Verifiable Credentials and Decentralised Identifiers.
 
-I'm most active on LinkedIn (at the moment at least) and you can see most of my posts there. I'm also on Twitter.
+I'm most active on LinkedIn (at the time I wrote this text at least) and you can see most of my posts there. I'm also on Twitter.
 
 My details are:
 LinkedIn: https://www.linkedin.com/in/11dot2/
