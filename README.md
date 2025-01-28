@@ -6,4 +6,5 @@ I'm most active on LinkedIn (at the time I wrote this text at least) and you can
 
 My details are:
 LinkedIn: https://www.linkedin.com/in/11dot2/
-Twitter/X: https://x.com/11dot2John
+Twitter/X: @11dot2John
+BlueSky: @11dot2.bsky.social
